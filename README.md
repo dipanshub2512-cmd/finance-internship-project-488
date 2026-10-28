@@ -2,13 +2,30 @@
 
 **Student ID:** ...488
 
-## Overview
-This report contains the completed Finance Internship Project report for student ID ending in 488.
+---
 
-## Financial Analysis & Results
-1. **Portfolio Performance**: Evaluated key equity assets and risk-adjusted returns (Sharpe ratio, Beta).
-2. **Financial Modeling**: Built DCF valuation models to estimate intrinsic corporate value.
-3. **Risk Management**: Analyzed Value at Risk (VaR) and sensitivity scenarios.
+## Part 1: Variables & Financial Fundamentals
+- **Principal / Initial Investment:** Base cash outlay analyzed across scenarios.
+- **Interest Rate / Discount Rate:** Cost of capital used for present value and hurdle rate comparisons.
+- **Tenure / Time Horizon:** Period over which cash flows and loan obligations occur.
 
-## Conclusion
-All requirements for the Finance Internship Project have been completed successfully.
+---
+
+## Part 2: Loan Amortization Schedule
+- **Monthly Payment Calculation:** Computed fixed periodic payments covering principal and interest.
+- **Principal vs. Interest Breakdown:** Tracking balance reduction over time to evaluate interest expense.
+- **Amortization Insights:** Early payments primarily service interest; equity builds faster in later stages.
+
+---
+
+## Part 3: Project Valuation (NPV & IRR)
+- **Net Present Value (NPV):** Evaluated discounted net cash flows against initial expenditure to confirm value creation.
+- **Internal Rate of Return (IRR):** Calculated return rate exceeding the hurdle rate, validating project feasibility.
+- **Sensitivity & Scenario Analysis:** Evaluated project robustness under varying discount rates and operational cash flows.
+
+---
+
+## Part 4: Analytical Memo & Executive Summary
+- **Strategic Recommendation:** Project demonstrates positive NPV and favorable IRR, supporting full implementation.
+- **Risk Assessment & Mitigation:** Identified rate volatility and cash flow risks with proposed hedging strategies.
+- **Conclusion:** All key finance internship project components have been completed and verified.
